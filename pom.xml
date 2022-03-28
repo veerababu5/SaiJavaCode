@@ -205,7 +205,7 @@
                <effort>Max</effort>
                <threshold>Low</threshold>
                  <!-- Optional Directory to put findbigs xdoc xml report -->
-                 <xmlOutputDirectory>reports/findbugs/</xmlOutputDirectory
+                 <xmlOutputDirectory>reports/findbugs/</xmlOutputDirectory>
            </configuration>
            <execustions>
                <execustion>
