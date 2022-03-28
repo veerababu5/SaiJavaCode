@@ -179,11 +179,11 @@
                 <outputDirectory>reports/pmd/</outputDirectory>
             </configuration>     
             <executions>
-                <execustion>
+                <execution>
                     <phase>validate</phase>
                     <goals><goal>pmd</goal></goals>
-                </execustion>
-            </execustions>
+                </execution>
+            </executions>
         </plugin>
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
