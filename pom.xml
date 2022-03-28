@@ -201,7 +201,7 @@
            <artifactId>findbugs-maven-plugin</artifactId>
            <version>3.0.4</version>
            <configuration>
-               <xmlOutput>true</xmloutput>
+               <xmlOutput>true</xmlOutput>
                <effort>Max</effort>
                <threshold>Low</threshold>
                  <!-- Optional Directory to put findbigs xdoc xml report -->
