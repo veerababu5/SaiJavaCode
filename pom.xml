@@ -207,13 +207,13 @@
                  <!-- Optional Directory to put findbigs xdoc xml report -->
                  <xmlOutputDirectory>reports/findbugs/</xmlOutputDirectory>
            </configuration>
-           <execustions>
-               <execustion>
+           <executions>
+               <execution>
                    <goals>
                      <goal>findbugs</goals>
                    </goals>
-               </execustion>
-          </execustions>
+               </execution>
+          </executions>
         </plugin>
       </plugins>
     </pluginManagement>
