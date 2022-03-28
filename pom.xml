@@ -10,15 +10,6 @@
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
-  
-  <artifactId>pmd</artifactId>
-  <packaging>hpi</packaging>
-  <name>PMD Plug-in</name>
-  <version>4.0.1-SNAPSHOT</version>
-  <url>http://wiki.jenkins-ci.org/x/GAAHAQ</url>
-  <description>This plug-in generates the trend report for PMD, an
-    open source static code analysis program.
-  </description>
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
