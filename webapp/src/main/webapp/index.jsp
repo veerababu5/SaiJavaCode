@@ -1,3 +1,10 @@
-<h1> Hello Dear Students !!, Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr.Hari from Saidemy </h2>
-<h2> It's time to start the DevOps Project-2!! Get ready!!! </h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <body style="background-color: rgb(255, 255, 255);">
+        <h1 style="color: red; text-align: center;">
+            జనసేన  పార్టీ ఆంధ్రప్రదేశ్
+        </h1>
+    </body>
+</head>
+</html>
